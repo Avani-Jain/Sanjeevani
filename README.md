@@ -1,3 +1,7 @@
+#SANJEEVANI
+
+#The project is a desktop based software used for Hospital Management. The entire project is made using Java and its APIs such as BulkSMS and 2Factor. The software #requires Java Runtime Environment to be installed on the host computer. All the database is managed via Oracle. Hence, Oracle needs to be installed in the host #computer. 
+
 BUILD OUTPUT DESCRIPTION
 
 
